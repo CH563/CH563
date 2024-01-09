@@ -4,6 +4,10 @@
 
 ![CH563's used](https://github-readme-stats.vercel.app/api/top-langs/?username=ch563&layout=compact)
 
+Follow my X：
+
+[![Liwen563](https://img.shields.io/twitter/follow/LiWen563?style=social)](https://twitter.com/LiWen563)
+
 Website:
 
 [AI Cat Chat](https://www.aicatchat.com/)
