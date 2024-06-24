@@ -10,6 +10,4 @@ Follow my X：
 
 Website:
 
-[AI Cat Chat](https://www.aicatchat.com/)
-
 [Shot Easy](https://shoteasy.fun/)
