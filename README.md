@@ -11,3 +11,5 @@ Follow my X：
 Website:
 
 [Shot Easy](https://shoteasy.fun/)
+
+[Fakeact](https://fakeact.fun/)
